@@ -1,8 +1,6 @@
 # helploiter-v2
 Welcome to Helploiter, this tool will help you write exploits in python.
 
-# helploiter
-
 ```
 def Logo():
     
@@ -22,10 +20,12 @@ def Logo():
 Helploiter-v2 - The BestTool for beginers
 Created by dropping from RamalhoSec Team!
 Contact: Awak3ned@protonmail.com
+Bitcoin = 3DppKRbA9Um3z4wnmVtkqnETnvwsip7WkC
+
     """
     
     
-    Youtube Video: https://www.youtube.com/watch?v=rd7w0wzNfo8
+    Youtube Video: https://www.youtube.com/watch?v=V34meqd0KrE&t
     
     Welcome to Helploiter, this tool will help you write exploits in python.
 Automatize tests:
