@@ -18,7 +18,7 @@ def Logo():
                   /'                                                     
 
 Helploiter-v2 - The BestTool for beginers
-Created by dropping from RamalhoSec Team!
+Created by Alan Ramalho (https://guitlab.com)
 Contact: Awak3ned@protonmail.com
 Bitcoin = 3DppKRbA9Um3z4wnmVtkqnETnvwsip7WkC
 
@@ -38,4 +38,4 @@ Thanks!
     
 ```
 
-![Alt text](https://github.com/RamalhoSec/helploiter-v2/blob/master/front.png?raw=true "Demo image")
+![Alt text](https://github.com/raioramalho/helploiterv2/blob/master/front.png?raw=true "Demo image")
